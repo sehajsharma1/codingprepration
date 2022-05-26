@@ -7,7 +7,6 @@ Java 11 base application.
 ### Dependencies
 
 * Junit 5
-* AssertJ
 * Mockito
 
 ### Support
