@@ -9,7 +9,7 @@ public class RedBlackBST<Key extends Comparable<Key>, Value> {
 		Key key; // key
 		Value val; // associated data
 		Node left, right; // subtrees
-		int N; // # nodes in this subtree
+		int N; //  nodes in this subtree
 		boolean color; // color of link from
 		// parent to this node
 

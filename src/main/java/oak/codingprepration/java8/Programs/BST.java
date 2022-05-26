@@ -7,7 +7,7 @@ public class BST<Key extends Comparable<Key>, Value> {
 		private Key key; // key
 		private Value val; // associated value
 		private Node left, right; // links to subtrees
-		private int N; // # nodes in subtree rooted here
+		private int N; //  nodes in subtree rooted here
 
 		public Node(Key key, Value val, int N) {
 			this.key = key;
