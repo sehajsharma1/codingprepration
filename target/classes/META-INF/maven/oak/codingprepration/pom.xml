@@ -10,9 +10,9 @@
   <packaging>jar</packaging>
 
   <name>Java 11 Application</name>
-  <inceptionYear>2020</inceptionYear>
+  <inceptionYear>2022</inceptionYear>
   <organization>
-    <name>Organization Name</name>
+    <name>Publicis Groupe</name>
   </organization>
 
   <properties>
